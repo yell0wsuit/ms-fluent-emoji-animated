@@ -1,2 +1,4 @@
-# ms-fluent-emoji-animated
-Animated Microsoft Fluent emojis from Microsoft Teams using WebP
+# Animated Microsoft Fluent Emojis
+Animated Microsoft Fluent emojis in WebP lossless format.
+
+Extracted from Developer Preview of Microsoft Teams.
